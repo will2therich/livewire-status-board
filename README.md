@@ -11,7 +11,7 @@ Livewire component to show records/data according to their current status
 You can install the package via composer:
 
 ```bash
-composer require asantibanez/livewire-status-board
+composer require will2therich/livewire-status-board
 ```
 
 ### Requirements
